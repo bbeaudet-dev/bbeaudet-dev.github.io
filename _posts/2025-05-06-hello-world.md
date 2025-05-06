@@ -1,6 +1,6 @@
-## Welcome, human.
+## Welcome to Just Another Blog
 
-### Hello world, I am also human.
+### Hello world.
 
 I've wanted to write for many years now, and while I have thousands of notes sprawling across 10+ online platforms, I've never ended up publishing anything. A couple of months ago, I quit my mechanical engineering job without any backup plan; a couple days ago, I enrolled in an immersive coding bootcamp - I'm sure you've heard LOTS of things about coding bootcamps, but odds are that you've never heard of this one. As I prepare for Fractal Tech's AI Accelerator, I've now learned enough basic web development that whipping up a personal blog has never been easier.
 
